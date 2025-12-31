@@ -46,10 +46,3 @@ Maroc : buts pour/contre et différence
 
 Auteur
 Youssef BT
-
-yaml
-Copier le code
-
----
-
-Si tu veux, envoie-moi le **nom exact de ton repo** (ou une capture) et je te dis où le mettre exactement dans l’interface GitHub (boutons à cliquer).
