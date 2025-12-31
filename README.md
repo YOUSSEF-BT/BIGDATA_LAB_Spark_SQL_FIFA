@@ -18,8 +18,8 @@ On charge le dataset `fifaworldcup.csv`, on crée une **vue temporaire** (`TempV
 ```
 pip install pyspark
 ```
-Lancer le script (local)
-⚠️ En local, vérifie le chemin du CSV dans le script.
+## Lancer le script (local)
+En local, vérifie le chemin du CSV dans le script.
 Si besoin, remplace /content/fifaworldcup.csv par ./fifaworldcup.csv.
 
 bash
